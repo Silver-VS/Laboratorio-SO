@@ -1,0 +1,11 @@
+# ninja log v5
+5	1947	7325924330381701	CMakeFiles/Laboratorio.dir/try2.c.obj	baea9d8b58dc83b3
+10	337	7319088736829965	CMakeFiles/Laboratorio.dir/main.c.obj	6908a5151c6fa57e
+8	287	7319104374739594	CMakeFiles/Laboratorio.dir/eje2.c.obj	3132e815c32471db
+2101	2340	7325925176638361	Laboratorio.exe	acf2d584627d0c6a
+2	474	7325925964182620	build.ninja	7fb9399ac06ecc26
+0	2099	7325925174458974	CMakeFiles/Laboratorio.dir/competencia.c.obj	8059cce4f4bc3bbd
+5	1894	7325926286064373	CMakeFiles/Laboratorio.dir/competencia.c.obj	8059cce4f4bc3bbd
+1897	2114	7325926288109538	Laboratorio.exe	acf2d584627d0c6a
+5	1740	7325926826712664	CMakeFiles/Laboratorio.dir/competencia.c.obj	8059cce4f4bc3bbd
+1741	1915	7325926828280682	Laboratorio.exe	acf2d584627d0c6a

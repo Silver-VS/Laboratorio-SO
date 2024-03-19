@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Laboratorio",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Laboratorio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laboratorio-Debug-4906696f0f8c8caab0c2.json",
+					"name" : "Laboratorio",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/silvervs/OneDrive - Instituto Politecnico Nacional/UNI/4\u00b0 SEMESTRE/R SISTEMAS OPERATIVOS/Laboratorio/cmake-build-debug",
+		"source" : "C:/Users/silvervs/OneDrive - Instituto Politecnico Nacional/UNI/4\u00b0 SEMESTRE/R SISTEMAS OPERATIVOS/Laboratorio"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
