@@ -1,13 +1,19 @@
 /*
- * Aceves Serrano Víctor Ghalieb
- * Castro Macías Julio Cesar
- * Portocarrero Rodriguez Habid
- * Lopez Garduño Isacc
- * Alejandro Fernandez Marvin
- * Angel Lecanda Castillo
- * Aguillon Colon Emanuel
- * López de la Rosa Elliot Moisés
- * Giles Macias Alexis
+ * Competencia 19-03-2024
+ * Sistemas Operativos
+ *
+ * Versión 1.0
+ *
+ * Autores:
+ *   Aceves Serrano Víctor Ghalieb
+ *   Aguillón Colon Emanuel
+ *   Castro Macías Julio Cesar
+ *   Fernández Marvin Alejandro
+ *   Giles Macias Alexis
+ *   Lecanda Castillo Ángel
+ *   López de la Rosa Elliot Moisés
+ *   López Garduño Isacc
+ *   Portocarrero Rodríguez Habid
  */
 
 
