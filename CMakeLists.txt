@@ -5,7 +5,8 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(Laboratorio
         competencia.c
-#        try2.c
+        cmake-build-debug/Solve.c
+        #        try2.c
         #        main.c
 #        eje2.c
 
