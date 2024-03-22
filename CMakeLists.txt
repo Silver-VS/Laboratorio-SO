@@ -4,8 +4,8 @@ project(Laboratorio C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Laboratorio
-        competencia.c
-        cmake-build-debug/Solve.c
+#        competencia.c
+        Solve.c
         #        try2.c
         #        main.c
 #        eje2.c

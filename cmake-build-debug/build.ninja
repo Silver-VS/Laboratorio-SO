@@ -49,13 +49,7 @@ cmake_ninja_workdir = C$:/Users/silvervs/OneDrive$ -$ Instituto$ Politecnico$ Na
 
 build cmake_object_order_depends_target_Laboratorio: phony || CMakeFiles/Laboratorio.dir
 
-build CMakeFiles/Laboratorio.dir/competencia.c.obj: C_COMPILER__Laboratorio_unscanned_Debug C$:/Users/silvervs/OneDrive$ -$ Instituto$ Politecnico$ Nacional/UNI/4°$ SEMESTRE/R$ SISTEMAS$ OPERATIVOS/Laboratorio/competencia.c || cmake_object_order_depends_target_Laboratorio
-  DEP_FILE = CMakeFiles\Laboratorio.dir\competencia.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Laboratorio.dir
-  OBJECT_FILE_DIR = CMakeFiles\Laboratorio.dir
-
-build CMakeFiles/Laboratorio.dir/Solve.c.obj: C_COMPILER__Laboratorio_unscanned_Debug C$:/Users/silvervs/OneDrive$ -$ Instituto$ Politecnico$ Nacional/UNI/4°$ SEMESTRE/R$ SISTEMAS$ OPERATIVOS/Laboratorio/cmake-build-debug/Solve.c || cmake_object_order_depends_target_Laboratorio
+build CMakeFiles/Laboratorio.dir/Solve.c.obj: C_COMPILER__Laboratorio_unscanned_Debug C$:/Users/silvervs/OneDrive$ -$ Instituto$ Politecnico$ Nacional/UNI/4°$ SEMESTRE/R$ SISTEMAS$ OPERATIVOS/Laboratorio/Solve.c || cmake_object_order_depends_target_Laboratorio
   DEP_FILE = CMakeFiles\Laboratorio.dir\Solve.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Laboratorio.dir
@@ -69,7 +63,7 @@ build CMakeFiles/Laboratorio.dir/Solve.c.obj: C_COMPILER__Laboratorio_unscanned_
 #############################################
 # Link the executable Laboratorio.exe
 
-build Laboratorio.exe: C_EXECUTABLE_LINKER__Laboratorio_Debug CMakeFiles/Laboratorio.dir/competencia.c.obj CMakeFiles/Laboratorio.dir/Solve.c.obj
+build Laboratorio.exe: C_EXECUTABLE_LINKER__Laboratorio_Debug CMakeFiles/Laboratorio.dir/Solve.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Laboratorio.dir
